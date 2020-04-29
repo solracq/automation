@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b485c9e2-1675-49ac-be86-3e2ae9901c86" name="Default Changelist" comment="test(Pytest practice tests): Test to practice Pytest&#10;&#10;multiple test to practice pytest formtiong" />
+    <list default="true" id="b485c9e2-1675-49ac-be86-3e2ae9901c86" name="Default Changelist" comment="test(Pytest practice tests): Test to practice Pytest&#10;&#10;multiple test to practice pytest formtiong">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,20 +30,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SAVE_CHANGES_POLICY" value="STASH" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1bCDjZLQ7KsUrPY6MfBTl7LVIyg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/test_string_content.py" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_string_content.py">
+  <component name="RunManager" selected="Python tests.pytest in test_div_by_3_6.py">
     <configuration name="pytest in test_compare.py" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="Automation" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,10 +178,36 @@
       <option name="project" value="LOCAL" />
       <updated>1588128799626</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test(Pytest practice tests): Test to practice Pytest&#10;&#10;multiple test to practice pytest formtiong">
+      <created>1588129100214</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588129100214</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test(Pytest practice tests): Test to practice Pytest&#10;&#10;multiple test to practice pytest formtiong">
+      <created>1588130058730</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588130058730</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test(Pytest practice tests): Test to practice Pytest&#10;&#10;multiple test to practice pytest formtiong" />
     <option name="LAST_COMMIT_MESSAGE" value="test(Pytest practice tests): Test to practice Pytest&#10;&#10;multiple test to practice pytest formtiong" />
   </component>
@@ -198,9 +248,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588128774624" />
-    <state x="552" y="38" key="Vcs.Push.Dialog.v2" timestamp="1588128824000">
+    <state x="552" y="38" key="Vcs.Push.Dialog.v2" timestamp="1588129148822">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="38" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588128824000" />
+    <state x="552" y="38" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588129148822" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588129166402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588129166402" />
   </component>
 </project>
