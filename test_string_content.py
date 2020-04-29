@@ -1,8 +1,7 @@
 '''
-Created on Apr 2, 2020
-
-@author: Solrac
+@author Solracq
 '''
+
 import pytest
 
 class TestStringContent:

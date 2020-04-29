@@ -1,3 +1,6 @@
+'''
+@author Solracq
+'''
 import pytest
 import math
 
