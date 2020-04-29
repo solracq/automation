@@ -1,2 +1,2 @@
-# automation
-automated tests using pytest
+# Automation
+Automated tests using pytest for practicing purposes.
